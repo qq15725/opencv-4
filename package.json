@@ -1,5 +1,5 @@
 {
-    "name": "opencv-js",
+    "name": "opencv-4",
     "version": "1.2.26",
     "main": "src/opencv.js",
     "types": "src/opencv.d.ts",
@@ -16,7 +16,7 @@
     "author": "wxm",
     "repository": {
         "type": "git",
-        "url": "https://github.com/qq15725/opencv-js"
+        "url": "https://github.com/qq15725/opencv-4"
     },
     "browser": {
         "fs": false,
