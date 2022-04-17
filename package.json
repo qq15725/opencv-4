@@ -1,10 +1,10 @@
 {
-    "name": "opencv-ts",
+    "name": "opencv-js",
     "version": "1.2.26",
     "main": "src/opencv.js",
     "types": "src/opencv.d.ts",
     "description": "This package is a work in progress to translate opecv with a typescript definition",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "dependencies": {
         "typescript": "^4.2.3"
     },
@@ -13,10 +13,10 @@
         "opencvjs",
         "opencv"
     ],
-    "author": "Grant Davidson",
+    "author": "wxm",
     "repository": {
         "type": "git",
-        "url": "https://github.com/theothergrantdavidson/opencv-ts"
+        "url": "https://github.com/qq15725/opencv-js"
     },
     "browser": {
         "fs": false,
